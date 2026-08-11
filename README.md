@@ -3,6 +3,7 @@
 This is my first Git Repository
 <br> 
 <h3>Author: Vanshraj </h3>
+<h3>LinkedIn: Vanshraj Bijawe</h3>
 # CLI File & Metadata Organizer
 
 A Python-based Command-Line Interface (CLI) tool designed to automate local directory organization, analyze file metadata, and streamline file system workflows.
