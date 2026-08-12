@@ -39,6 +39,5 @@ Managing scattered files manually introduces unnecessary friction into developer
 git clone [https://github.com/vanshrajbijawe/VanshrajBijawe-demo-repo.git](https://github.com/vanshrajbijawe/VanshrajBijawe-demo-repo.git)
 cd VanshrajBijawe-demo-repo
 
-
-##Simply the project workes as a file distributor which makes file easy to identify and shoted rather than just finding the required file and moving them to needful folder.
-
+```
+This project acts as an automated file organizer that simplifies directory management, saving you from manually searching for and sorting files into individual folders."*
