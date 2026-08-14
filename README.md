@@ -7,9 +7,7 @@ This is my first Git Repository
 # CLI File & Metadata Organizer
 
 A Python-based Command-Line Interface (CLI) tool designed to automate local directory organization, analyze file metadata, and streamline file system workflows.
-
 ---
-
 ## 📌 Overview
 
 Managing scattered files manually introduces unnecessary friction into developer workflows. This project automates directory cleaning by scanning file extensions, sorting items into categorized directories, and providing a safe `--dry-run` simulation mode before making any changes.
@@ -19,9 +17,7 @@ Managing scattered files manually introduces unnecessary friction into developer
 * **Safe Dry-Run Mode:** Previews changes without modifying or moving any local files.
 * **CLI Interface:** Configurable via terminal arguments powered by Python's `argparse`.
 * **Cross-Platform Path Handling:** Built with `pathlib` for seamless execution across Windows, macOS, and Linux.
-
 ---
-
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.8+
@@ -31,7 +27,6 @@ Managing scattered files manually introduces unnecessary friction into developer
   * `shutil` & `os` – File relocation and directory management
 
 ---
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
