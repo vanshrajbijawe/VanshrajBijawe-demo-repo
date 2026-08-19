@@ -35,4 +35,6 @@ git clone [https://github.com/vanshrajbijawe/VanshrajBijawe-demo-repo.git](https
 cd VanshrajBijawe-demo-repo
 
 ```
-This project acts as an automated file organizer that simplifies directory management, saving you from manually searching for and sorting files into individual folders."*
+This project acts as an automated file organizer that simplifies directory management, saving you from manually searching for and sorting files into individual folders.
+-----------
+Connect on LinkedIn:Vanshraj Bijawe
